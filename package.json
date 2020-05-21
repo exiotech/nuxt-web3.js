@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/exiotech/nuxt-web3.js#readme",
   "dependencies": {
-    "vue-web3.js": "0.0.1"
+    "vue-web3.js": "0.0.2"
   }
 }
