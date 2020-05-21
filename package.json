@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/web3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nuxtjs wrapper for vue-web3.js plugin",
   "main": "module.js",
   "scripts": {
